@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Innsbruck, Austria - TourGuide</string>
+
+    <string name="tab_sports">sports</string>
+    <string name="tab_museums">museums</string>
+    <string name="tab_sights">sights</string>
+    <string name="tab_bars">bars</string>
+
+    <!-- bars -->
+    <string name="haltestelle_name">Haltestelle</string>
+    <string name="haltestelle_description">Start your evening at the Haltestelle (\" bus stop\"). The special thing about this bar is that you can order the so called bus-line: a bus-line consist of a number of very creativ shots. For example the line for medical-students includes shots called blood, x-ray, anatomy!</string>
+    <string name="haltestelle_opening">Mon - Sat: 20.00 - 04.00</string>
+    <string name="haltestelle_address">Angerzellgasse 10</string>
+
+    <string name="krahvogel_name">Krahvogel</string>
+    <string name="krahvogel_description">a pub-like place with a decent variety of beer, wine and liquer, until 22h they also serve food.In summer you can consume everything in the cosy garden.</string>
+    <string name="krahvogel_opening">Mon - Sat: 10.00 - 02.00</string>
+    <string name="krahvogel_address">Anichstraße 12/1</string>
+
+    <string name="blue_chip_name">Blue chip</string>
+    <string name="blue_chip_description">dance club is a very popular hotspot for the young snowboarder crowd from the local university from Thursday to Saturday night.</string>
+    <string name="blue_chip_opening">Wed - Sat: 20.00 - 04.00</string>
+    <string name="blue_chip_address">Wilhelm-Greil-Straße 17</string>
+
+    <string name="hofgarten_name">Hofgarten</string>
+    <string name="hofgarten_description">a local bar with both indoor and outdoor seating, occasional live music and a number of drinks to choose from.  This is a bar popular with the younger adult crowd although not so rowdy as to turn off the older folks. Very popular on tuesdays and saturdays. Only open from March until December.</string>
+    <string name="hofgarten_opening">Tue - Sat: 19.00 - 04.00</string>
+    <string name="hofgarten_address">Rennweg 6a</string>
+
+    <string name="theresienbrau_name">Theresienbräu</string>
+    <string name="theresienbrau_description">a crowded place to spend the weekends partying. They are an actual brewery where you can watch the beer be made. They have a DJ on weekends, serve traditional Austria food and homemade beer.</string>
+    <string name="theresienbrau_opening">Mon - Wed: 10.00 - 01.00, Thu-Sat: 10.00 - 02.00, Sun: 12.00 - 21.00</string>
+    <string name="theresienbrau_address">Maria-Theresien-Straße 51-53 1</string>
+
+    <!-- museums -->
+    <string name="schloss_ambras_name">Schloss Ambras</string>
+    <string name="schloss_ambras_description">The provincial sovereign of Tyrol, Archduke Ferdinand II (1529-95), son of Emperor Ferdinand l, ordered that the mediaeval fortress at Ambras be turned into a Renaissance castle for his wife Philippine Welser. He also commissioned the building of a separately designed museum complex to house his world-famous collections. Constructed according to the most advanced ideas of its time, it is an eminent precursor of our modern-day museums and has been preserved at its original site to this day.</string>
+    <string name="schloss_ambras_opening">Mon - Sun: 10.00 - 17.00</string>
+    <string name="schloss_ambras_address">Schlossstrasse 20 </string>
+    <string name="schloss_ambras_category">Castle, Historic Site, Museum, Landmark</string>
+
+    <string name="tirol_panorama_name">Tirol Panorama</string>
+    <string name="tirol_panorama_description">A wide-angle view of history: this new, modern museum provides an impressive survey of Tirol’s turbulent history and its effect on the country and its people. The centrepiece of the museum is the gigantic panoramic painting known as the “Riesenrundgemälde”.</string>
+    <string name="tirol_panorama_opening">Wed - Mon: 09.00 - 17.00</string>
+    <string name="tirol_panorama_address">Bergisel 1-2</string>
+    <string name="tirol_panorama_category">Speciality museum</string>
+
+    <string name="art_museum_name">Tyrolean Folk Art Museum</string>
+    <string name="art_museum_description">The Tyrolean Folk Art Museum is housed in four wings of a former Franciscan monastery (the displaced community later established Lienz Friary) around an arcaded Renaissance courtyard. The permanent exhibition includes an extensive collection of old handicrafts, traditional costumes, household items, glass and pottery, peasant furniture, textiles, tools, metalwork, and religious and secular folk art from the various regions of Tyrol.</string>
+    <string name="art_museum_opening">Mon - Sun: 09.00 - 17.00</string>
+    <string name="art_museum_address">Universitaetsstrasse 2</string>
+    <string name="art_museum_category">Art museum</string>
+
+    <string name="audioversum_name">AUDIOVERSUM - Adventure Hearing</string>
+    <string name="audioversum_description">The AUDIOVERSUM transports you to the wonderful world of hearing, where you can enjoy impressive listening experiences for the whole family. Unique in Austria and Europa. Get ready for captivating installations and exhibits, presented with exceptional technologies - on more than 1.000 m². Our motto is: join in, listen, be amazed and learn while playing.</string>
+    <string name="audioversum_opening">Tue - Fri: 09.00 - 17.00, Sat - Sun: 10.00 - 17.00</string>
+    <string name="audioversum_address">Wilhelm-Greil-Strasse 23</string>
+    <string name="audioversum_category">Speciality museum</string>
+
+    <string name="bell_museum_name">Glockengiesserei Grassmayr</string>
+    <string name="bell_museum_description">A 400-year old bell foundry and museum of bell-making. Award-winning museum of bells in the famed Grassmayr Bell Foundry, with a bell-ringing sound studio.</string>
+    <string name="bell_museum_opening">Mon - Sat: 10.00 - 16.00</string>
+    <string name="bell_museum_address">Leopoldstrasse 53</string>
+    <string name="bell_museum_category">Bell museum</string>
+
+    <!-- sights -->
+    <string name="gold_roof_name">The golden roof</string>
+    <string name="gold_roof_description">This famous balcony in Innsbruck\'s historic neighborhood was constructed out of gold to honor the marriage of Maximilian I and his wife.</string>
+
+    <string name="hottinger_alm_name">Höttinger Alm</string>
+    <string name="hottinger_alm_description">A much loved Alm for walkers and mountain bikers lying above Innsbruck (on the sunny side).Serves homemade food (e.g. Kaspressknödel - Speckknödel - Spinatknödel ...)Simple overnight accommodation is also available.</string>
+
+    <string name="wilten_basilica_name">Wilten Basilica</string>
+    <string name="wilten_basilica_description">Wilten Abbey Basilica is the most beautiful Rococo church in Austria and enjoys a rich history. It’s one of two large churches in Wilten, alongside Premonstratensian Abbey, and is also home to the famous Wilten Boys’ Choir.</string>
+
+    <string name="ski_jump_name">Bergisel ski jump</string>
+    <string name="ski_jump_description">Towering high above Innsbruck on the wooded Bergisel Hill, the brand-new Bergisel Ski Jump is a sight to behold. The hill itself is a historic site, scene of the 1809 battles in which Andreas Hofer led some Tyrolean peasants against French and Bavarian forces in the Tyrolean War of Independence. </string>
+
+    <!-- sports -->
+    <string name="skiing_name">Skiing - Snowboarding</string>
+    <string name="skiing_description">Innsbruck has ski 9 resorts within 45 minutes drive including NordPark that you access via funicular from town, and is home to the likes of Burton and Method Mag. There are even more ski resorts in the region from the small local resorts to the world known resorts such as Sölden, Kitzbühl, Ischgl,... The incredible variety of resorts guarantees something can be found for anyone. Great terrains for powder hunters, awesome fun parks, perfectly shaped slopes and plenty of kids entertainment.</string>
+
+    <string name="hiking_name">Hiking</string>
+    <string name="hiking_description">Numerous walking trails weave their ways through Innsbruck\'s regions. Everything is possible: from a relaxing family walk to challenging mountain hikes. One possibility of getting to know the mountain world is with free hiking programme. There are highly-trained mountain guides that will show you the most beautiful spots, woods, meadows and cabins. The view is spectacular.</string>
+
+    <string name="climbing_name">Climbing - bouldering</string>
+    <string name="climbing_description">Rugged terrain and steep rock faces offer the perfect setting for varied climbing adventures: from lead climbing to via ferrata, from family-friendly outdoor climbing areas to indoor rock climbing and bouldering.</string>
+
+    <string name="biking_name">Mountain biking</string>
+    <string name="biking_description">Cycling in the region: Innsbruck and its holiday villages offer a wide spectrum of different cycling routes and mountain bike tours suitable for families, sports enthusiasts and leisurely cyclists. Ambitious mountain biking fans can tackle challenging tracks in Alpine terrain, while those who prefer to take it easy can enjoy flat routes such as the \"Genuss.Radweg\" culinary cycle tour. </string>
+
+</resources>
